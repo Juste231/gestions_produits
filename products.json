@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "name": "bic",
+    "description": "stylo ",
+    "price": 100,
+    "stock": 10
+  },
+  {
+    "id": "2",
+    "name": "Laptop Pro",
+    "description": "smart phone",
+    "price": 1400,
+    "stock": 3
+  }
+]
